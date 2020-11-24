@@ -1,0 +1,44 @@
+body {
+  
+  background: #ECEEEE;
+  font-family: 'Open Sans', sans-serif;
+}
+header {
+  background: #2A4658;
+  padding: 25px 0;
+  overflow: hidden;
+}
+header .logo {
+  color: #fff;
+  float: left;
+}
+
+header nav {
+  float: right;
+  margin-top: 15px;
+}
+header nav ul li {
+  display: inline-block;
+  margin: 0 0 0 40px;
+  font-size: 24px;
+}
+header nav ul li a {
+  color: #E8D639;
+}
+
+#main {
+  margin-top: 80px;
+}
+
+#sidebar {
+  width: 240px;
+  display: inline-block;
+  vertical-align: top;
+}
+sidebar p {
+  margin-bottom: 40px;
+}
+footer {
+
+
+  }
